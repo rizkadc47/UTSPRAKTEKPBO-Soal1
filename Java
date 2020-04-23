@@ -1,4 +1,4 @@
-b.	Source Code JAVA
+Source Code JAVA
 import java.util.Scanner;
 public class Algebra{
 
